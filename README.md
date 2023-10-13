@@ -1,4 +1,4 @@
-# Todo app in React.js
+# Todo list app
 
 A simple Todo List application built using React and React-Bootstrap.
 
@@ -88,3 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This project was created by [Abebe Biru](https://www.linkedin.com/in/abebe-biru/).
 
 - Built with ❤️ using React and React-Bootstrap.
+
+Feel free to use and also report any issues. Enjoy using the Todo List app!
