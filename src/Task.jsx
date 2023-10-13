@@ -7,14 +7,14 @@ export const Task = (props) => {
         className={props.completed ? "btn btn-success" : "btn btn-warning"}
         onClick={() => props.completeTask(props.id)}
       >
-        {props.completed ? "Xumurameera" : "Xumuri"}
+        {props.completed ? "Completed" : "Complete"}
       </button>
       &nbsp;
       <button
         className="btn btn-danger"
         onClick={() => props.deleteTask(props.id)}
       >
-        Haqi
+        Delete
       </button>
     </h1>
   );

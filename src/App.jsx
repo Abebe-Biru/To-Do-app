@@ -41,10 +41,10 @@ function App() {
           type="search"
           onChange={handleNewTask}
           className="form-control"
-          placeholder="Dalagaa asitti barreessi..."
+          placeholder="Type your task here"
         />
         <button className="btn btn-primary mt-3" onClick={addTask}>
-          {"Dalagaa Ida'i"}
+          {"Add Task"}
         </button>
       </div>
       <div className="list">
