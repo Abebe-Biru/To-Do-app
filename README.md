@@ -72,7 +72,6 @@ Some of the challenges faced during the development of this project include:
 
 - Managing and updating the state of tasks.
 - Implementing task completion and deletion functionalities.
-- Styling and layout design for a user-friendly interface.
 
 <a name="license"></a>
 
